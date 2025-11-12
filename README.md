@@ -16,7 +16,7 @@ const thomas = {
     role: "Full-Stack Developer",
     location: "Germany 🇩🇪",
     currentlyWorking: ["Minecraft Server Infrastructure", "Server Administration Guides", "Security Tools"],
-    learning: ["Advanced Penetration Testing", Kubernetes", "Network Architecture"],
+    learning: ["Advanced Penetration Testing", "Kubernetes", "Network Architecture"],
     funFact: "I automate everything... even my coffee machine (WIP) ☕"
 };
 ```

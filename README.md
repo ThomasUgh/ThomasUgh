@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Thomas%20U.&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=gradient" width="100%"/>
   
   <h2>
-    Hello there! 
+    Hello there👋
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnN5enNrbzV4N3o3N3l1NnJ6MmQxMmFqZGt0ZnJhdHFyZDBwZHphdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Nx0rz3jtxtEre/giphy.gif" width="50" />
   </h2>
   

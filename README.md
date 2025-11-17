@@ -17,7 +17,7 @@ const thomas = {
     location: "Germany 🇩🇪",
     currentlyWorking: ["Minecraft Server Infrastructure", "Server Administration", "Security Tools"],
     learning: ["Advanced Penetration Testing", "Kubernetes", "Network Architecture"],
-    funFact: "I automate everything... even my coffee machine (WIP) ☕"
+    funFact: "I can build a workaround for anything..."
 };
 ```
 

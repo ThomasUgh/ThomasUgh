@@ -15,7 +15,7 @@
 const thomas = {
     role: "Full-Stack Developer",
     location: "Germany 🇩🇪",
-    currentlyWorking: ["Minecraft Server Infrastructure", "Server Administration", "Security Tools"],
+    currentlyWorking: ["Server Infrastructure", "Server Administration", "Security Tools"],
     learning: ["Advanced Penetration Testing", "Kubernetes", "Network Architecture"],
     funFact: "I can build a workaround for anything..."
 };

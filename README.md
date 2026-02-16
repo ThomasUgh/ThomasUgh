@@ -13,7 +13,7 @@
 
 ```typescript
 const thomas = {
-    role: "Full-Stack Developer",
+    role: "Software Developer",
     location: "Germany 🇩🇪",
     currentlyWorking: ["Server Infrastructure", "Server Administration", "Security Tools"],
     learning: ["Advanced Penetration Testing", "Kubernetes", "Network Architecture"],
